@@ -1,0 +1,115 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2019, Mike Kasprzak,,,
+UComments: "2019-5-23: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 368 -782376873 8954696]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1558631785
+ModificationTime: 1558633158
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 18 18 6
+Grid
+0 53 m 1
+ 50 53 l 1
+ 50 0 l 1
+ 0 0 l 1
+ 0 53 l 1
+0 150 m 1
+ 148 150 l 1
+ 148 0 l 1
+ 0 0 l 1
+ 0 150 l 1
+0 99 m 1
+ 97 99 l 1
+ 97 0 l 1
+ 0 0 l 1
+ 0 99 l 1
+49 900 m 1
+ 643 900 l 1
+ 643 54 l 1
+ 49 54 l 1
+ 49 900 l 1
+0 699 m 1
+ 0 951 l 1
+ 697 951 l 1
+ 697 699 l 1
+ 0 699 l 1
+0 351 m 1
+ 0 597 l 1
+ 697 597 l 1
+ 697 351 l 1
+ 0 351 l 1
+0 249 m 1
+ 697 249 l 1
+ 697 0 l 1
+ 0 0 l 1
+ 0 249 l 1
+397 951 m 1
+ 697 951 l 1
+ 697 0 l 1
+ 397 0 l 1
+ 397 951 l 1
+0 951 m 1
+ 295 951 l 1
+ 295 0 l 1
+ 0 0 l 1
+ 0 951 l 1
+EndSplineSet
+BeginChars: 256 1
+
+StartChar: L
+Encoding: 76 76 0
+Width: 600
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 951 m 1
+ 0 951 0 251 0 200 c 1
+ 0 99 100 0 200 0 c 1
+ 251 0 600 0 600 0 c 1
+ 600 300 l 1
+ 600 300 429 300 379 300 c 1
+ 353 300 328 331 328 363 c 1
+ 326 648 325 951 325 951 c 1
+ 226.666992188 951 98.3333333333 951 0 951 c 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
