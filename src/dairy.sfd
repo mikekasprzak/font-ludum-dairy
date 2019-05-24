@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1558671128
-ModificationTime: 1558674061
+ModificationTime: 1558718093
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 54 18 6
+WinInfo: 0 18 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -110,7 +110,7 @@ Grid
 50 1300 m 0
  50 -700 l 1024
 EndSplineSet
-BeginChars: 256 8
+BeginChars: 256 12
 
 StartChar: L
 Encoding: 76 76 0
@@ -134,7 +134,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 1
-Width: 750
+Width: 800
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -146,10 +146,10 @@ SplineSet
  450 350 450 550 350 550 c 1
  299 550 l 1
 0 902 m 25
- 300 900 l 25
- 350 900 l 1
- 850 900 850 0 350 0 c 2
- 300 0 l 25
+ 300 900 l 1
+ 400 900 l 1
+ 900 900 899 -30 400 0 c 2
+ 300 0 l 1
  0 0 l 25
  0 902 l 25
 EndSplineSet
@@ -292,6 +292,86 @@ SplineSet
  400 250 l 1
  700 250 l 1
 EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 8
+Width: 1125
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 350 m 2
+ 0 550 150 700 350 700 c 0
+ 425.615151713 700 494.083239465 678.558808118 550 641.08068761 c 1
+ 605.916760535 678.558808118 674.384848287 700 750 700 c 0
+ 950 700 1100 550 1100 350 c 2
+ 1100 0 l 1
+ 798 0 l 1
+ 800 350 l 2
+ 800 375 775 400 750 400 c 0
+ 725 400 700 375 700 350 c 2
+ 700 0 l 1
+ 398 0 l 1
+ 398 0 l 1
+ 400 350 l 2
+ 400 375 375 400 350 400 c 0
+ 325 400 300 375 300 350 c 2
+ 300 0 l 1
+ 2 0 l 1
+ 0 350 l 2
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 9
+Width: 475
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+350 400 m 1
+ 325 400 300 375 300 350 c 1
+ 300 0 l 25
+ 2 0 l 17
+ 0 350 l 0
+ 0 550 150 700 350 700 c 0
+ 452 700 348 700 450 700 c 1
+ 450 400 l 25
+ 350 400 l 1
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 10
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 350 m 4
+ 0 550 150 700 350 700 c 4
+ 550 700 700 550 700 350 c 4
+ 700 0 l 4
+ 398 0 l 4
+ 400 350 l 5
+ 400 375 375 400 350 400 c 5
+ 325 400 300 375 300 350 c 5
+ 300 0 l 29
+ 2 0 l 21
+ 0 350 l 4
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 11
+Width: 250
+VWidth: 0
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
