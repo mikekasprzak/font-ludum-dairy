@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: Untitled1
-FullName: Untitled1
-FamilyName: Untitled1
+FontName: Dairy
+FullName: Dairy
+FamilyName: Dairy
 Weight: Regular
-Copyright: Copyright (c) 2019, Mike Kasprzak,,,
+Copyright: Copyright (c) 2019, Mike Kasprzak
 UComments: "2019-5-23: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1558631785
-ModificationTime: 1558633158
+ModificationTime: 1558658811
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -43,72 +44,107 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 18 18 6
+BeginPrivate: 0
+EndPrivate
 Grid
-0 53 m 1
- 50 53 l 1
- 50 0 l 1
- 0 0 l 1
- 0 53 l 1
-0 150 m 1
- 148 150 l 1
- 148 0 l 1
- 0 0 l 1
- 0 150 l 1
-0 99 m 1
- 97 99 l 1
- 97 0 l 1
- 0 0 l 1
- 0 99 l 1
-49 900 m 1
- 643 900 l 1
- 643 54 l 1
- 49 54 l 1
- 49 900 l 1
-0 699 m 1
- 0 951 l 1
- 697 951 l 1
- 697 699 l 1
- 0 699 l 1
-0 351 m 1
- 0 597 l 1
- 697 597 l 1
- 697 351 l 1
- 0 351 l 1
-0 249 m 1
- 697 249 l 1
- 697 0 l 1
- 0 0 l 1
- 0 249 l 1
-397 951 m 1
- 697 951 l 1
- 697 0 l 1
- 397 0 l 1
- 397 951 l 1
-0 951 m 1
- 295 951 l 1
- 295 0 l 1
- 0 0 l 1
- 0 951 l 1
+450 1300 m 0
+ 450 -700 l 1024
+150 1300 m 0
+ 150 -700 l 1024
+-1000 150 m 0
+ 2000 150 l 1024
+-1000 650 m 0
+ 2000 650 l 1024
+-1000 450 m 0
+ 2000 450 l 1024
+-1000 350 m 4
+ 2000 350 l 1028
+-1000 300 m 0
+ 2000 300 l 1024
+-1000 500 m 0
+ 2000 500 l 1024
+-1000 400 m 0
+ 2000 400 l 1024
+400 1300 m 0
+ 400 -700 l 1024
+-1000 550 m 0
+ 2000 550 l 1024
+-1000 600 m 0
+ 2000 600 l 1024
+-1000 700 m 0
+ 2000 700 l 1024
+-1000 750 m 0
+ 2000 750 l 1024
+500 1300 m 0
+ 500 -700 l 1024
+550 1300 m 0
+ 550 -700 l 1024
+600 1300 m 0
+ 600 -700 l 1024
+350 1300 m 0
+ 350 -700 l 1024
+-1000 250 m 0
+ 2000 250 l 1024
+250 -696 m 0
+ 250 1304 l 0
+ 250 -696 l 0
+200 1300 m 0
+ 200 -700 l 1024
+-1000 200 m 0
+ 2000 200 l 1024
+100 1300 m 0
+ 100 -700 l 1024
+50 1300 m 0
+ 50 -700 l 1024
+-1000 50 m 0
+ 2000 50 l 1024
+-1000 100 m 0
+ 2000 100 l 1024
 EndSplineSet
-BeginChars: 256 1
+BeginChars: 256 2
 
 StartChar: L
 Encoding: 76 76 0
-Width: 600
+Width: 550
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 951 m 1
- 0 951 0 251 0 200 c 1
- 0 99 100 0 200 0 c 1
- 251 0 600 0 600 0 c 1
- 600 300 l 1
- 600 300 429 300 379 300 c 1
- 353 300 328 331 328 363 c 1
- 326 648 325 951 325 951 c 1
- 226.666992188 951 98.3333333333 951 0 951 c 1
+300 250 m 1
+ 500 250 l 1
+ 500 0 l 1
+ 500 0 250 0 200 0 c 0
+ 100 0 0 100 0 200 c 0
+ 0 250 0 798 0 798 c 1
+ 250 800 l 1
+ 250 300 l 1
+ 250 275 275 250 300 250 c 1
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 1
+Width: 650
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+350 350 m 1
+ 350 450 l 1
+ 350 475 325 500 300 500 c 1
+ 250 500 l 1
+ 250 300 l 1
+ 300 300 l 1
+ 325 300 350 325 350 350 c 1
+0 800 m 1
+ 400 800 l 17
+ 500 800 600 700 600 600 c 1
+ 600 200 l 1
+ 600 100 500 0 400 0 c 1
+ 0 0 l 25
+ 0 800 l 1
 EndSplineSet
 EndChar
 EndChars
