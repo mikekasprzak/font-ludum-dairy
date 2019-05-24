@@ -3,24 +3,24 @@ FontName: Dairy
 FullName: Dairy
 FamilyName: Dairy
 Weight: Regular
-Copyright: Copyright (c) 2019, Mike Kasprzak
-UComments: "2019-5-23: Created with FontForge (http://fontforge.org)"
+Copyright: Copyright (c) 2019, Mike Kasprzak,,,
+UComments: "2019-5-24: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -100
-UnderlineWidth: 50
-Ascent: 800
+UnderlinePosition: -110
+UnderlineWidth: 55
+Ascent: 900
 Descent: 200
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 368 -782376873 8954696]
+XUID: [1021 368 -782376873 13616642]
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1558631785
-ModificationTime: 1558670050
+CreationTime: 1558671128
+ModificationTime: 1558674061
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,123 +43,254 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 18 18 6
+WinInfo: 54 18 6
 BeginPrivate: 0
 EndPrivate
 Grid
-575 1297 m 0
- 575 -703 l 1024
-625 1300 m 0
- 625 -700 l 1024
-125 1300 m 0
- 125 -700 l 1024
--1000 125 m 0
- 2000 125 l 1024
-275 1299 m 0
- 275 -701 l 1024
--999 275 m 0
- 2001 275 l 1024
-299.916625977 1300 m 0
- 299.916625977 -700 l 1024
-450 1300 m 0
- 450 -700 l 1024
-150 1300 m 1
- 150 -700 l 1025
--1000 150 m 1
- 2000 150 l 1025
+-1000 850 m 0
+ 2200 850 l 1024
+-1000 800 m 0
+ 2200 800 l 1024
+-1000 750 m 0
+ 2000 750 l 1024
+-1000 700 m 0
+ 2000 700 l 1024
 -1000 650 m 0
  2000 650 l 1024
+-1000 600 m 0
+ 2000 600 l 1024
+-1000 550 m 0
+ 2000 550 l 1024
+-1000 500 m 0
+ 2000 500 l 1024
 -1000 450 m 0
  2000 450 l 1024
+-1000 400 m 0
+ 2000 400 l 1024
 -1000 350 m 0
  2000 350 l 1024
 -1000 300 m 0
  2000 300 l 1024
--1000 500 m 0
- 2000 500 l 1024
--1000 400 m 0
- 2000 400 l 1024
-400 1299 m 0
- 400 -701 l 1024
--1000 550 m 0
- 2000 550 l 1024
--1000 600 m 0
- 2000 600 l 1024
--1000 700 m 0
- 2000 700 l 1024
--1000 750 m 0
- 2000 750 l 1024
-499 1300 m 0
- 499 -700 l 1024
-550 1300 m 0
- 550 -700 l 1024
-600 1298 m 0
- 600 -702 l 1024
-350 1300 m 0
- 350 -700 l 1024
 -1000 250 m 0
  2000 250 l 1024
-250 -696 m 0
- 250 1304 l 0
- 250 -696 l 0
-200 1300 m 0
- 200 -700 l 1024
 -1000 200 m 0
  2000 200 l 1024
-100 1300 m 0
- 100 -700 l 1024
-50 1299 m 0
- 50 -701 l 1024
--1000 50 m 0
- 2000 50 l 1024
+-1000 150 m 0
+ 2000 150 l 1024
 -1000 100 m 0
  2000 100 l 1024
+-1000 50 m 1
+ 2000 50.9999984801 l 1025
+700 1300 m 0
+ 700 -700 l 1024
+650 1300 m 0
+ 650 -700 l 1024
+600 1300 m 0
+ 600 -700 l 1024
+550 1300 m 0
+ 550 -700 l 1024
+500 1300 m 0
+ 500 -700 l 1024
+450 1300 m 0
+ 450 -700 l 1024
+400 1300 m 0
+ 400 -700 l 1024
+350 1300 m 0
+ 350 -700 l 1024
+300 1300 m 0
+ 300 -700 l 1024
+250 1300 m 0
+ 250 -700 l 1024
+200 1300 m 0
+ 200 -700 l 1024
+150 1300 m 0
+ 150 -700 l 1024
+100 1300 m 0
+ 100 -700 l 1024
+50 1300 m 0
+ 50 -700 l 1024
 EndSplineSet
-BeginChars: 256 2
+BeginChars: 256 8
 
 StartChar: L
 Encoding: 76 76 0
-Width: 575
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Fore
-SplineSet
-300 250 m 1
- 550 250 l 1
- 550 127 l 0
- 550 0 l 1
- 250 0 l 0
- 125 0 0 125 0 250 c 0
- 0 798 l 1
- 250 800 l 1
- 250 300 l 1
- 250 275 275 250 300 250 c 1
-EndSplineSet
-EndChar
-
-StartChar: D
-Encoding: 68 68 1
 Width: 625
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-350 373 m 1
- 350 423 l 1
- 350 473 325 500 275 500 c 1
- 275 500 249.999999943 499.271814359 250 500 c 1
- 250 300 l 1
- 275 300 l 1
- 325 300 350 323 350 373 c 1
-0 800 m 1
- 250 800 l 1
- 500 800 600 650 600 450 c 1
- 600 350 l 1
- 600 150 450 0 250 0 c 1
- 0 0 l 1
- 0 800 l 1
+0 900 m 1
+ 300 900 l 1
+ 300 350 l 0
+ 300 325 325 300 350 300 c 0
+ 600 300 l 25
+ 600 0 l 1
+ 300 0 l 0
+ 125 0 1.07156594925e-14 125 0 300 c 0
+ 0 900 l 1
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 1
+Width: 750
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+299 550 m 1
+ 299 350 l 1
+ 299 350 349.90625 350 350 350 c 1
+ 450 350 450 550 350 550 c 1
+ 299 550 l 1
+0 902 m 25
+ 300 900 l 25
+ 350 900 l 1
+ 850 900 850 0 350 0 c 2
+ 300 0 l 25
+ 0 0 l 25
+ 0 902 l 25
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 2
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+350 300 m 1
+ 325 300 300 325 300 350 c 1
+ 300 375 325 400 350 400 c 1
+ 375 400 400 375 400 350 c 1
+ 400 325 375 300 350 300 c 1
+350 0 m 0
+ 550 0 700 150 700 350 c 0
+ 700 550 550 700 350 700 c 0
+ 150 700 0 549.997070312 0 350 c 0
+ 0 150 150 0 350 0 c 0
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 3
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+400 300 m 1
+ 350 300 l 1
+ 325 300 300 325 300 350 c 1
+ 300 375 325 400 350 400 c 1
+ 375 400 400 375 400 350 c 1
+ 400 300 l 1
+700 0 m 1
+ 700 350 l 1
+ 700 550 550 700 350 700 c 0
+ 150 700 0 549.997070312 0 350 c 0
+ 0 150 150 0 350 0 c 1
+ 700 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 4
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+400 400 m 1
+ 400 350 l 1
+ 400 325 375 300 350 300 c 1
+ 325 300 300 325 300 350 c 1
+ 300 375 325 400 350 400 c 1
+ 400 400 l 1
+400 700 m 1
+ 350 700 l 1
+ 150 700 0 549.997070312 0 350 c 0
+ 0 150 150 0 350 0 c 0
+ 550 0 700 150 700 350 c 1
+ 701 850 l 1
+ 400 850 l 1
+ 400 700 l 1
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 5
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+700 350 m 0
+ 700 150 550 0 350 0 c 0
+ 150 0 0 150 0 350 c 0
+ 0 700 l 0
+ 302 700 l 0
+ 300 350 l 1
+ 300 325 325 300 350 300 c 1
+ 375 300 400 325 400 350 c 1
+ 400 700 l 25
+ 698 700 l 17
+ 700 350 l 0
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 6
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+350 300 m 5
+ 325 300 300 325 300 350 c 1
+ 300 375 325 400 350 400 c 1
+ 375 400 400 375 400 350 c 5
+ 350 300 l 5
+700 300 m 1
+ 700 350 l 0
+ 700 550 550 700 350 700 c 0
+ 150 700 0 549.997070312 0 350 c 0
+ 0 150 150 0 350 0 c 0
+ 700 0 l 13
+ 400 300 l 25
+ 700 300 l 1
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 7
+Width: 725
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+350 300 m 1
+ 325 300 300 325 300 350 c 1
+ 300 375 325 400 350 400 c 1
+ 375 400 400 375 400 350 c 1
+ 400 325 375 300 350 300 c 1
+700 250 m 1
+ 700 350 l 0
+ 700 550 550 700 350 700 c 0
+ 150 700 0 549.997070312 0 350 c 0
+ 0 150 150 0 350 0 c 0
+ 650 0 l 1
+ 400 250 l 1
+ 700 250 l 1
 EndSplineSet
 EndChar
 EndChars
