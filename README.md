@@ -1,2 +1,19 @@
-# Ludum Dairy font
-I make font. whee
+# Ludum Dairy
+Ludum Dairy is a typeface by Mike Kasprzak. It ~~is~~ will soon be the font used for Ludum Dare logo on the official game jam website [ldjam.com](https://ldjam.com).
+
+This font is freely available under the SIL OFL license (generally speaking: use it for whatever, just don't sell it).
+
+# Inspirations
+The modern Ludum Dare logo began by modifying glyphs from Null by FontFabric. I liked the weight of the font, and some of the thematic notes, specifically the curvyness. It reminded me of the old NASA logo. I took the font in a more curvy 
+
+## Null by FontFabric
+image
+
+[NULL by FontFabric](https://www.fontfabric.com/fonts/null/)
+
+## NASA Logo
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/512px-NASA_Worm_logo.svg.png)
+
+[NASA Logo on Wikimedia](https://commons.wikimedia.org/wiki/File:NASA_Worm_logo.svg)
+
+I've always been a fan of the original NASA logo. The _wormyness_ is a super interesting aesthetic to me. When I first discovered FontFabric's NULL font, I wanted a wormier version of that.
