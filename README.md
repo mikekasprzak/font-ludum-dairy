@@ -17,3 +17,11 @@ image
 [NASA Logo on Wikimedia](https://commons.wikimedia.org/wiki/File:NASA_Worm_logo.svg)
 
 I've always been a fan of the original NASA logo. The _wormyness_ is a super interesting aesthetic to me. When I first discovered FontFabric's NULL font, I wanted a wormier version of that.
+
+## CN Logo
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CN_Logo.svg/500px-CN_Logo.svg.png)
+
+[CN Logo on Wikimedia](https://commons.wikimedia.org/wiki/File:CN_Logo.svg)
+
+https://imjustcreative.com/cn-logo-designed-by-allan-fleming/2012/01/01
