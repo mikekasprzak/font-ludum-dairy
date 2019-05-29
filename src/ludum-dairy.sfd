@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: Dairy
-FullName: Dairy
-FamilyName: Dairy
+FontName: Ludum-Dairy
+FullName: Ludum Dairy
+FamilyName: Ludum Dairy
 Weight: Regular
-Copyright: Copyright (c) 2019, Mike Kasprzak,,,
+Copyright: Copyright (c) 2019, Mike Kasprzak
 UComments: "2019-5-24: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -16,16 +16,22 @@ LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 368 -782376873 13616642]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1558671128
-ModificationTime: 1559061236
+ModificationTime: 1559151070
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 99
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 99
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
@@ -38,13 +44,14 @@ OS2Vendor: 'PfEd'
 Lookup: 258 0 0 "O_Z" { "O_Z" [165,16,0] "O_Z-1" [165,16,0] } []
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 18 18 9
+WinInfo: 0 18 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -119,7 +126,8 @@ Grid
 50 1300 m 0
  50 -700 l 1024
 EndSplineSet
-BeginChars: 256 164
+TeXData: 1 0 0 238312 119156 79437 667276 1048576 79437 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 170
 
 StartChar: L
 Encoding: 76 76 0
@@ -3304,21 +3312,25 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 138
-Width: 700
+Width: 750
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-600 500 m 1
- 500 300 l 0
- 650 300 l 0
- 650 0 l 0
+600 350 m 1
+ 700 450 700 550 700 575 c 0
+ 700 775 550 900 350 900 c 0
+ 150 900 0 750 0 550 c 1
+ 300 550 l 0
+ 300 575 325 600 350 600 c 0
+ 375 600 400 582.5 400 550 c 4
+ 400 450 297 350 0 50 c 0
  0 0 l 1
- 300 600 l 1
- 0 600 l 5
- 0 825 125 900 350 900 c 4
- 550 900 725 750 600 500 c 1
+ 700 0 l 1
+ 702 300 l 1
+ 550 300 l 1
+ 600 350 l 1
 EndSplineSet
 EndChar
 
@@ -3936,6 +3948,142 @@ SplineSet
  300 550 l 0
  700 550 l 1
  700 350 l 2
+EndSplineSet
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 164
+Width: 700
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+600 500 m 1
+ 500 300 l 0
+ 650 300 l 0
+ 650 0 l 0
+ 0 0 l 1
+ 300 600 l 1
+ 0 600 l 5
+ 0 825 125 900 350 900 c 4
+ 550 900 725 750 600 500 c 1
+EndSplineSet
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 165
+Width: 700
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+800 900 m 1
+ 500 300 l 0
+ 800 300 l 0
+ 800 0 l 0
+ 0 0 l 1
+ 300 600 l 1
+ 0 600 l 1
+ 0 825 150 900 350 900 c 0
+ 800 900 l 1
+EndSplineSet
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 166
+Width: 750
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+662.5 450.000976562 m 5
+ 687.5 500 700 541.421910948 700 600 c 0
+ 700 800 550 900 350 900 c 0
+ 150 900 0 800 0 600 c 1
+ 300 600 l 0
+ 300 625 325 650 350 650 c 0
+ 375 650 400 635 400 600 c 0
+ 400 550 374.998479977 499.996959954 325 400 c 0
+ 125 0 125 0 125 0 c 1
+ 700 0 l 1
+ 702 250 l 1
+ 573 250 l 1
+ 662.5 450.000976562 l 5
+EndSplineSet
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 167
+Width: 750
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+600 375 m 5
+ 700 475 700 550 700 600 c 0
+ 700 800 550 900 350 900 c 0
+ 150 900 0 800 0 600 c 1
+ 300 600 l 0
+ 300 625 325 650 350 650 c 0
+ 375 650 400 630 400 600 c 0
+ 400 500 297 400 0 100 c 0
+ 0 0 l 1
+ 700 0 l 1
+ 702 300 l 1
+ 525 300 l 1
+ 600 375 l 5
+EndSplineSet
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 168
+Width: 750
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+600 375 m 1
+ 700 475 700 550 700 600 c 4
+ 700 800 550 900 350 900 c 0
+ 150 900 0 750 0 550 c 1
+ 300 550 l 0
+ 300 575 325 600 350 600 c 0
+ 375 600 400 580 400 550 c 0
+ 400 450 297 350 0 50 c 0
+ 0 0 l 1
+ 700 0 l 1
+ 702 300 l 1
+ 525 300 l 1
+ 600 375 l 1
+EndSplineSet
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 169
+Width: 750
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+600 350 m 1
+ 700 450 700 550 700 575 c 0
+ 700 775 550 900 350 900 c 0
+ 150 900 0 750 0 550 c 1
+ 300 550 l 0
+ 300 575 325 600 350 600 c 0
+ 375 600 400 582.5 400 550 c 4
+ 400 450 297 350 0 50 c 0
+ 0 0 l 1
+ 700 0 l 1
+ 702 300 l 1
+ 550 300 l 1
+ 600 350 l 1
 EndSplineSet
 EndChar
 EndChars
