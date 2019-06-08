@@ -7,7 +7,7 @@ This font is freely available under the SIL OFL license (generally speaking: use
 The modern Ludum Dare logo began by modifying glyphs from Null by FontFabric. I liked the weight of the font, and some of the thematic notes, specifically the curvyness. It reminded me of the old NASA and CN logos. I took the font in a more curvy direction, and only a handful of glyphs bare resemblence to the original inspiprations.
 
 ## Null by FontFabric
-image
+![](https://raw.githubusercontent.com/mikekasprzak/font-ludum-dairy/reference/reference/null.png)
 
 [NULL by FontFabric](https://www.fontfabric.com/fonts/null/)
 
