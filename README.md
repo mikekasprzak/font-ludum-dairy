@@ -4,6 +4,8 @@ Ludum Dairy is a typeface by Mike Kasprzak. It ~~is~~ will soon be the font used
 
 This font is freely available under the SIL OFL license (generally speaking: use it for whatever, just don't sell it).
 
+**DOWNLOADS**: https://github.com/mikekasprzak/font-ludum-dairy/releases
+
 # Things still to do:
 * Kerning
 * Punctuation glyphs (`!.,#`)
