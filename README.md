@@ -4,12 +4,14 @@ Ludum Dairy is a typeface by Mike Kasprzak. It ~~is~~ will soon be the font used
 This font is freely available under the SIL OFL license (generally speaking: use it for whatever, just don't sell it).
 
 # Inspirations
-The modern Ludum Dare logo began by modifying glyphs from Null by FontFabric. I liked the weight of the font, and some of the thematic notes, specifically the curvyness. It reminded me of the old NASA logo. I took the font in a more curvy 
+The modern Ludum Dare logo began by modifying glyphs from Null by FontFabric. I liked the weight of the font, and some of the thematic notes, specifically the curvyness. It reminded me of the old NASA and CN logos. I took the font in a more curvy direction, and only a handful of glyphs bare resemblence to the original inspiprations.
 
 ## Null by FontFabric
-image
+![](https://raw.githubusercontent.com/mikekasprzak/font-ludum-dairy/reference/reference/null.png)
 
 [NULL by FontFabric](https://www.fontfabric.com/fonts/null/)
+
+Original inspiration for the logo. 
 
 ## NASA Logo
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/512px-NASA_Worm_logo.svg.png)
@@ -24,4 +26,6 @@ I've always been a fan of the original NASA logo. The _wormyness_ is a super int
 
 [CN Logo on Wikimedia](https://commons.wikimedia.org/wiki/File:CN_Logo.svg)
 
-https://imjustcreative.com/cn-logo-designed-by-allan-fleming/2012/01/01
+A fascinating piece on [the CN logo](https://imjustcreative.com/cn-logo-designed-by-allan-fleming/2012/01/01)
+
+
